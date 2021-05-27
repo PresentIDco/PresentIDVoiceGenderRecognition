@@ -11,7 +11,7 @@ Content-Disposition: form-data; name=\"sound\"\r
 "
 headers = {
     'content-type': "multipart/form-data; boundary=---011000010111000001101001",
-    'x-rapidapi-key': "f485496ab8msh2ea068a0bbe333cp179f86jsn2b4afe8962dd",
+    'x-rapidapi-key': "API KEY",
     'x-rapidapi-host': "voice-gender-recognition.p.rapidapi.com"
     }
 
