@@ -1,7 +1,6 @@
 ### Voice Gender Recognition
 PresentID Voice gender recognition API can recognize the gender of the speaker.
 
-![Image-Content-gender-2](https://user-images.githubusercontent.com/63470748/119772465-0daf2d00-be74-11eb-8538-ace77bad696d.png)
 
 
 **Youtube Videos:**
